@@ -1,0 +1,32 @@
+[
+  {
+    "id": "01",
+    "name": "Technology",
+    "image": "https://i.ibb.co/RBMd5dt/technology.png"
+  },
+  {
+    "id": "02",
+    "name": "Management",
+    "image": "https://i.ibb.co/1ZZnm1Y/management.png"
+  },
+  {
+    "id": "03",
+    "name": "Marketing",
+    "image": "https://i.ibb.co/1mppQjY/marketing.png"
+  },
+  {
+    "id": "04",
+    "name": "Data Science",
+    "image": "https://i.ibb.co/w4W5P9L/data-science.png"
+  },
+  {
+    "id": "05",
+    "name": "Machine Learning",
+    "image": "https://i.ibb.co/yqj9nQW/ml.jpg"
+  },
+  {
+    "id": "06",
+    "name": "Law",
+    "image": "https://i.ibb.co/PgJFvFz/law.png"
+  }
+]
