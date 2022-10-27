@@ -22,7 +22,10 @@ app.get("/courses-details", (req, res) => {
 
 app.get("/category/:id", (req, res) => {
   const id = req.params.id;
-  const courseCategory = coursesDetails.filter((coursesDetail) => coursesDetail.category_id === id);
+  // console.log(id)
+  const courseCategory = coursesDetails.filter((coursesDetail) => coursesDetail.category_id === id );
+  // console.log(courseCategory);
+  // res.send(courseCategory);
   res.send(courseCategory);
 });
 

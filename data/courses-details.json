@@ -5,6 +5,7 @@
     "title": "Introduction to NFTs",
     "details": "This course will prov_ide you with insights on the fundamentals of NFTs, such as how the NFT market works, how to mint and promote NFTs, future of NFTs and many more.",
     "duration": "30 Mins",
+    "course_fee": "500 BDT",
     "thumbnails": "https://i.ibb.co/wRCzcK3/NFTs368x318-1648497981829.png"
   },
   {
@@ -13,6 +14,7 @@
     "title": "JavaScript Basics from Scratch",
     "details": "In this course, you will learn the concepts of variables and datatypes, conditionals, loops, arrays, objects and functions in JavaScript.",
     "duration": "19 Hours",
+    "course_fee": "2000 BDT",
     "thumbnails": "https://i.ibb.co/b2WWxsk/Javascript-Basics-1640608578024.jpg"
   },
   {
@@ -21,6 +23,7 @@
     "title": "Blockchain Technology: A Quick Introduction",
     "details": "In this 9hrs course, learn the fundamentals of blockchain and how it is an alternative to the existing legacy systems.",
     "duration": "9 Hours",
+    "course_fee": "1600 BDT",
     "thumbnails": "https://i.ibb.co/j5HWXNX/Blockchain-Technology-1640609125817.jpg"
   },
   {
@@ -29,6 +32,7 @@
     "title": "Data Structures and Algorithm",
     "details": "Gear up for a DSA interview with this comprehensive prep on the topic along with practice quizzes and questions",
     "duration": "50 Hours",
+    "course_fee": "6500 BDT",
     "thumbnails": "https://i.ibb.co/m5Tfbps/Data-Structures-and-Algorithm-1640608808023.jpg"
   },
   {
@@ -37,6 +41,7 @@
     "title": "Object Oriented Principles in Java",
     "details": "In this course, learn about the framework of classes and objects, and get introduced to the principles of OOP - Abstraction, Encapsulation, Inheritance and Polymorphism.",
     "duration": "12 Hours",
+    "course_fee": "4000 BDT",
     "thumbnails": "https://i.ibb.co/VCMDD0n/Principles-in-Java-1640609560999.jpg"
   },
   {
@@ -45,6 +50,7 @@
     "title": "Object Oriented Analysis and Design for Beginners",
     "details": "In this course, you will learn about OOAD and why you need it. You will get introduced to the Object-Oriented Paradigm of software development and with Unified Modelling Language.",
     "duration": "7 Hours",
+    "course_fee": "2500 BDT",
     "thumbnails": "https://i.ibb.co/Qm2sFDJ/Oriented-Analysis-and-Design-1640609645141.jpg"
   },
   {
@@ -53,6 +59,7 @@
     "title": "Business Analytics Fundamentals",
     "details": "This course will help you with learn and apply useful data visualisation tools.",
     "duration": "6 Hours",
+    "course_fee": "2000 BDT",
     "thumbnails": "https://i.ibb.co/MfvQQQL/business-fundamentals-1640333696221.jpg"
   },
   {
@@ -61,6 +68,7 @@
     "title": "Introduction to Business Analytics",
     "details": "This course will help you understand business buzzwords and in formulating hypotheses and understanding how decision making takes place in an organization.",
     "duration": "15 Hours",
+    "course_fee": "3500 BDT",
     "thumbnails": "https://i.ibb.co/TKj5kRX/business-1640333857423.jpg"
   },
   {
@@ -69,6 +77,7 @@
     "title": "Marketing Masterclass: Create your Brand",
     "details": "This is a Masterclass on building favorable brands from Siddharth Roy Kapur, the former MD of The Walt Disney Company India.",
     "duration": "1 Hour",
+    "course_fee": "1000 BDT",
     "thumbnails": "https://i.ibb.co/kqpf478/masterclass-1640257251742-1641924993186.jpg"
   },
   {
@@ -77,6 +86,7 @@
     "title": "Fundamentals of Marketing",
     "details": "This course will help you understand what marketing is and how it helps the business' growth objectives.",
     "duration": "6 Hours",
+    "course_fee": "2000 BDT",
     "thumbnails": "https://i.ibb.co/bKSdzRp/marketing-fundamentals-1640257010892-1641925335948.jpg"
   },
   {
@@ -85,6 +95,7 @@
     "title": "Introduction to Social Media Marketing",
     "details": "This course will help you leverage social media platforms like Facebook, Instagram and LinkedIn to increase your brand presence.",
     "duration": "6 Hours",
+    "course_fee": "2000 BDT",
     "thumbnails": "https://i.ibb.co/wS3wTPb/social-media-1640256900690-1641925683234.jpg"
   },
   {
@@ -93,6 +104,7 @@
     "title": "Introduction to Supply Chain Management",
     "details": "This course will teach you the essentials of supply chain management, including how supply chains operate, how to plan a supply chain, and how to use supply chains to achieve success.",
     "duration": "2 Hours",
+    "course_fee": "1500 BDT",
     "thumbnails": "https://i.ibb.co/Mgpkj7m/scm-1640334175876.jpg"
   },
   {
@@ -101,6 +113,7 @@
     "title": "Building Successful Celebrity Partnerships and Campaigns",
     "details": "This course will provide you with insights on Celebrity Partnership and how it works. You'll also learn how to design a branded content show with a celebrity.",
     "duration": "1 Hour",
+    "course_fee": "1000 BDT",
     "thumbnails": "https://i.ibb.co/Fw16MSd/cb-free-course-v2-1654684257507.jpg"
   },
   {
@@ -109,6 +122,7 @@
     "title": "Introduction to Social Media Marketing",
     "details": "This course will help you leverage social media platforms like Facebook, Instagram and LinkedIn to increase your brand presence.",
     "duration": "6 Hours",
+    "course_fee": "2000 BDT",
     "thumbnails": "https://i.ibb.co/Yjt7PN7/social-media-1640256900690.jpg"
   },
   {
@@ -117,6 +131,7 @@
     "title": "How do Brands Leverage User Generated Content?",
     "details": "This course will provide you an understanding of what user generated content is, why it is becoming more popular, and how different businesses are utilising it to market their products.",
     "duration": "20 Mins",
+    "course_fee": "3500 BDT",
     "thumbnails": "https://i.ibb.co/k8MTkdR/brand-leverage-1640256681876.jpg"
   },
   {
@@ -125,6 +140,7 @@
     "title": "Basics of Search Engine Optimization",
     "details": "This course walks you through the basics of SEO, conducting an SEO audit and SEO operation.",
     "duration": "6 Hours",
+    "course_fee": "2000 BDT",
     "thumbnails": "https://i.ibb.co/PwDHwzc/SEO-fc-1635765053502.jpg"
   },
   {
@@ -133,6 +149,7 @@
     "title": "Ultimate Guide to Email Marketing",
     "details": "This course will show you how to build, launch and analyze email campaigns.",
     "duration": "4 Hours",
+    "course_fee": "2000 BDT",
     "thumbnails": "https://i.ibb.co/jGdJ8RW/email-marketing-1640256318077.jpg"
   },
   {
@@ -141,6 +158,7 @@
     "title": "Complete Guide to Content Marketing",
     "details": "In this course, you’ll learn about creating content strategy, planing and executing content marketing and defining campaign metrics.",
     "duration": "5 Hours",
+    "course_fee": "2000 BDT",
     "thumbnails": "https://i.ibb.co/fdn54tK/content-marketing-PNG-1647005177440.jpg"
   },
   {
@@ -149,6 +167,7 @@
     "title": "Linear Regression: Step by Step Guide",
     "details": "This course will help you start your Machine Learning journey by introducing you to the concept of Regression. The course covers simple and multiple linear regression, and the relevance of regression in the industries.",
     "duration": "20 Hours",
+    "course_fee": "5000 BDT",
     "thumbnails": "https://i.ibb.co/h78xPt8/linear-1640331504880.jpg"
   },
   {
@@ -157,6 +176,7 @@
     "title": "Unsupervised Learning: Clustering",
     "details": "This course is designed to help you master Clustering in Unsupervised Learning. It includes basic introduction to Clustering, K-Means Clustering and its execution, Hierarchical Clustering, etc.",
     "duration": "11 Hours",
+    "course_fee": "4500 BDT",
     "thumbnails": "https://i.ibb.co/NTKFb7x/clustering-1640331460088.jpg"
   },
   {
@@ -165,6 +185,7 @@
     "title": "Logistic Regression for Beginners",
     "details": "The course covers the concept of Logistic Regression and its applications in the industry. Topics such as univariate and multi-variate logistic regression in detail.",
     "duration": "17 Hours",
+    "course_fee": "4500 BDT",
     "thumbnails": "https://i.ibb.co/2Szp9fF/logistic-1640331481397.jpg"
   },
   {
@@ -173,6 +194,7 @@
     "title": "Fundamentals of Deep Learning of Neural Networks",
     "details": "In this beginner-friendly course, you will learn about the most sophisticated and cutting-edge models in machine learning - Artificial Neural Networks or ANNs. You will be introduced to the basics of Neural Networks and various concepts related to Deep Neural Network",
     "duration": "28 Hours",
+    "course_fee": "6000 BDT",
     "thumbnails": "https://i.ibb.co/dDqHHG0/dl-1640331518339.jpg"
   },
   {
@@ -181,6 +203,7 @@
     "title": "Linear Algebra for Analysis",
     "details": "This introductory course will help you learn Linear Algebra required for analytics. Topics such as vectors, linear transformations, matrices, eigenvalues and eigenvectors will be covered.",
     "duration": "5 Hours",
+    "course_fee": "3000 BDT",
     "thumbnails": "https://i.ibb.co/VTNYwny/linear-algebra-1640326897883.jpg"
   },
   {
@@ -189,6 +212,7 @@
     "title": "Introduction to Natural Learning Processing",
     "details": "This course on Artificial Intelligence will help in taking your first step towards learning the interactions between human language and computers i.e., NLP. The course covers the basics of NLP, and other topics such as RegEx for building tools for Spell Correction, Phonetic Hashing, and Spam Detection.",
     "duration": "11 Hours",
+    "course_fee": "2500 BDT",
     "thumbnails": "https://i.ibb.co/TvYJ74Y/nlp-1640331532195.jpg"
   },
   {
@@ -197,6 +221,7 @@
     "title": "Constitutional Litigation",
     "details": "This course will proivde details on constitutional litigation, why is it important and the various elements of constitutional litigation. You'll also get insights on how to build a career in constitutional law.",
     "duration": "4 Hours",
+    "course_fee": "2000 BDT",
     "thumbnails": "https://i.ibb.co/ns8hyCL/CL-368x318-1665737310606.jpg"
   },
   {
@@ -205,6 +230,7 @@
     "title": "Introduction to Intellectual Property Rights",
     "details": "In this course, you’ll be learning about IPR and its many interfaces, such as copyright, trademark, compulsory licensing, and patents, as well as the relevant laws and case law.",
     "duration": "2 Hours",
+    "course_fee": "2000 BDT",
     "thumbnails": "https://i.ibb.co/vhcKcgR/ipr-1643703476172.jpg"
   },
   {
@@ -213,6 +239,7 @@
     "title": "Law and Justice in a Gloablization World",
     "details": "This course will give you an overview on the background of law and justice, globalisation, the repercussions of globalisation on transnational crime. You'll also get insights on drug trafficking and how world is responding to it.",
     "duration": "2 Hours",
+    "course_fee": "2000 BDT",
     "thumbnails": "https://i.ibb.co/zSFtRrJ/law-justice-1643703505602.jpg"
   }
 ]
